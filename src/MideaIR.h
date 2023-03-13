@@ -20,7 +20,7 @@
 #define NEW_MIDEA
 
 // Enable heat mode on your fan
-//#define MIDEA_COOL_HEAT 
+#define MIDEA_COOL_HEAT 
 
 #ifdef OLD_MIDEA
 // Air Conditioner Modes
